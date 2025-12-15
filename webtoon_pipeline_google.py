@@ -28,7 +28,7 @@ import numpy as np
 # ==========================================
 # 🔑 Google API 키 하드코딩 (여기에 입력)
 # ==========================================
-HARDCODED_API_KEY = ""  # 예: "AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+HARDCODED_API_KEY = "" 
 # ==========================================
 
 # Google GenAI
